@@ -11,7 +11,5 @@ stty raw -echo;fg
 
 reset xterm
 
-export TERM=XTERM
-export SHELL=bash
 export TERM=linux
 
